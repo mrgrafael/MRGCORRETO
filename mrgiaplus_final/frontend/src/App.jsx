@@ -1,1 +1,0 @@
-// Componente raiz do frontend

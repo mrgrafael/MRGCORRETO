@@ -1,1 +1,0 @@
-// Componente IA de conversação
